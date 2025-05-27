@@ -29,8 +29,7 @@ Game_Vault/
 ├── ui.py              # Custom UI elements
 ├── icon.png           # Application icon
 ├── requirements.txt   # All dependencies
-├── Game_Vault.exe     # Prebuilt Windows executable
-└── _internal/         # Internal modules (if any)
+└── Game_Vault.exe     # Prebuilt Windows executable
 ```
 
 ---
